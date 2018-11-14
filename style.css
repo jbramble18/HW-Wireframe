@@ -1,4 +1,4 @@
-*{
+* {
     box-sizing: border-box;
     text-align: center;
 }
@@ -33,6 +33,7 @@ nav {
     width: 100%;
 
 }
+
 section {
     float: left;
     background-color: #ebebeb;
@@ -69,10 +70,11 @@ article {
     text-align: center;
     padding: 20px;
     margin-top: 20px;
-      
+
 
 }
-h1{
+
+h1 {
     position: relative;
     bottom: 150px;
     background-color: #ebebeb;
